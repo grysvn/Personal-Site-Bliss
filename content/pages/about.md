@@ -8,14 +8,10 @@ disclaimer:
   text: This is a text disclaimer. It will be visible on the page.
 ---
 
-<img src="/images/kitty.jpg" alt="" class="myphoto" />
+<img src="/images/avatar.jpeg" alt="Picture of me in front of North Carolina State University's Talley Student Union." class="myphoto" />
 
-I'm {{ siteConfig.author.name }}.
+Hi, I'm {{ siteConfig.author.name }} *(he/they)* and this is my personal website 🤠
 
-**{{ siteConfig.site.title }}** is my blog.
+I'm a software engineer (based out of North Carolina) working on my powerlifting handler app, Handly, and other iOS app projects. I also [powerlift competitively](https://www.openpowerlifting.org/u/matthewgray1), enjoy vegetable gardening, and play Rocket League when time allows.
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
-
-Image credit: [Orange Tabby Cat on Brown Knitted Textile by Alena Koval](https://www.pexels.com/photo/orange-tabby-cat-on-brown-knitted-textile-982300/)
+If you have any questions feel free to contact me via my email address: _m@(this domain name)_.
