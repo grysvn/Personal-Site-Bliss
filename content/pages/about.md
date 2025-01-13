@@ -1,11 +1,9 @@
 ---
 title: About
-description: There are many variations of passages of Lorem Ipsum available.
+description: Information about Matthew Gray and their projects.
 eleventyNavigation:
   key: About
   order: 1
-disclaimer:
-  text: This is a text disclaimer. It will be visible on the page.
 ---
 
 <img src="/images/avatar.jpeg" alt="Picture of me in front of North Carolina State University's Talley Student Union." class="myphoto" />
