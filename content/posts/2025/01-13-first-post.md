@@ -1,6 +1,6 @@
 ---
 title: First post
-description: Hello world!
+description: Hello world
 date: 2025-01-13
 tags:
   - hello world
