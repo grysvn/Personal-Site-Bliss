@@ -2,6 +2,9 @@
 dist/*
 _site/*
 
+## Nova
+.nova/*
+
 ## Node.js
 lib-cov
 *.seed
