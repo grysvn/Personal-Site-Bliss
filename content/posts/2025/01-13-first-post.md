@@ -9,4 +9,4 @@ disclaimer:
   url: /about/
 ---
 
-Hello 👋 I'll be sharing some more information about Handly here soon.
+Hello 👋 I'll be sharing some more information about Handly here soon. For more info, see the [About page](/about/).
