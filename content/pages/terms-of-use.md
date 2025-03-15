@@ -1,6 +1,7 @@
 ---
 title: Handly Terms of Use
 description: Terms of Use for Handly.
+permalink: handly/terms-of-use
 ---
 
 **Terms & Conditions**  
