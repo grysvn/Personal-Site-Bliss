@@ -6,4 +6,7 @@ eleventyNavigation:
   order: 2
 ---
 
-Coming soon 👀
+More information coming soon.
+
+* [Privacy Policy](/privacy-policy/)
+* [Terms of Use](/terms-of-use/)
