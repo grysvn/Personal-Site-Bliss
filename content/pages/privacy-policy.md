@@ -1,7 +1,7 @@
 ---
 title: Handly Privacy Policy
 description: Privacy policy for Handly.
-permalink: handly/privacy-policy
+permalink: handly/privacy-policy.html
 ---
 
 **Privacy Policy**

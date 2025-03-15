@@ -8,5 +8,5 @@ eleventyNavigation:
 
 More information coming soon.
 
-* [Privacy Policy](/handly/privacy-policy)
-* [Terms of Use](/handly/terms-of-use)
+* [Privacy Policy](/handly/privacy-policy.html)
+* [Terms of Use](/handly/terms-of-use.html)
