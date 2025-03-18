@@ -29,11 +29,21 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+Use of the Application and all related services is at your own risk. You agree that Service Provider is not providing medical advice via the Application. Before using the Application, if you have knowledge of any pre-existing medical conditions, please seek medical advice from a doctor.
+
+You agree that any exercise activity performed while using the Application carries inherent risk of injury or death and you assume all known and unknown risks associated with any exercise activity even if caused in whole or part by the action, inaction or negligence of Service Provider or others.
+
+The Service Provider shall not be held liable for any damages, indirect or direct, related to or resulting from any use of the services, including injury or death.
+
+Your use of the Application is at your sole risk. The Application is provided on an "AS IS" and "AS AVAILABLE" basis. The Application is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+
+The Service Provider its subsidiaries, affiliates, and its licensors do not warrant that a) the Application will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Application is free of viruses or other harmful components; or d) the results of using the Application will meet your requirements.
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2025-03-15
+These terms and conditions are effective as of 2025-03-15.
 
 **Contact Us**
 
