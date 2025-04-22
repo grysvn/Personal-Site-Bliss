@@ -12,8 +12,8 @@ Handly Powerlifting is an iOS app to help powerlifters or powerlifting coaches m
 
 # Links
 
-* [Privacy Policy](/handly/privacy-policy.html)
-* [Terms of Use](/handly/terms-of-use.html)
+* [Privacy Policy](/handly-powerlifting/privacy-policy.html)
+* [Terms of Use](/handly-powerlifting/terms-of-use.html)
 
 # Support
 
